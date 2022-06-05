@@ -10,7 +10,7 @@ divisble both by 3 and by 5.
 
 // First write a loop that prints out 1 to 100 numbers. *FINISHED*
 
-for (let i = 0; i <= 10; i++) {
+for (let i = 0; i <= 100; i++) {
     console.log(i);
     // Second: Show the string "Fizz" instead of the number if it is divisible by 3.
     if ( i % 3 === 0 ) {
